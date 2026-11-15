@@ -1,33 +1,73 @@
-# Hi, I'm Kashaf 👋
+# Kashaf — Mathematics × Technology
 
-🎓 **BS Mathematics Student** at Bahauddin Zakariya University (BZU), Pakistan  
-💻 Exploring the connection between **Mathematics and Technology**  
-🌱 Currently learning **Python, C++, and NumPy**
+A personal portfolio website for **Kashaf**, a BS Mathematics student at Bahauddin Zakariya University (BZU), Multan, Pakistan.
 
-## About Me
+The portfolio presents academic background, programming practice, selected projects, community learning, and interests at the intersection of mathematics and technology.
 
-I'm a mathematics student interested in how mathematical ideas are used to solve real-world problems through technology. I'm building my programming skills step by step and exploring the fields of **Data Science, Artificial Intelligence, and Machine Learning**.
+## Website
 
-I enjoy understanding the logic behind code, solving problems, and turning what I learn into practical projects.
+- **Stack:** HTML5, CSS3, vanilla JavaScript
+- **Design:** Responsive layout with a warm beige, brown, sage-green, and navy palette
+- **Features:** Mobile navigation, smooth section navigation, accessible focus states, reduced-motion support, SEO metadata
+- **Deployment target:** GitHub Pages or Vercel
 
-## Skills & Learning
+## Run locally
 
-- **Programming:** Python, C++
-- **Libraries:** NumPy (learning)
-- **Core interests:** Mathematics, problem-solving, algorithms, and analytical thinking
-- **Exploring:** Data Science, AI, and Machine Learning
+No build tools or package installation are required.
 
-## Current Focus
+1. Clone or download this repository.
+2. Open the project folder.
+3. Open `index.html` in a browser.
 
-- Strengthening my Python and C++ fundamentals
-- Applying mathematics to programming problems
-- Learning data analysis tools and mathematical computing
-- Building practical projects and documenting my progress
+For a local development server, use the Live Server extension in Visual Studio Code.
 
-## Connect
+## Project structure
 
-- **GitHub:** [@kashaf-math](https://github.com/kashaf-math)
+```
+Kashaf/
+├── index.html
+├── style.css
+├── script.js
+├── README.md
+└── assets/
+    └── favicon.svg
+```
+
+## Featured work
+
+- **Smart Business Profit & Analytical System (SBPAS):** A C++ learning project applying mathematical and statistical calculations to business analysis.
+- **My Life Manager:** An AI-assisted productivity application. Google AI Studio assisted with app development; Android APK packaging was handled by Kashaf using Android Studio. [Open the live application](https://my-life-manager-app-eight.vercel.app/).
+- **Axiom — Offline Study Assistant:** A rule-based offline educational assistant with a built-in knowledge base and mathematical utilities.
+
+The portfolio also lists smaller C++ console projects. Project previews are illustrative UI compositions, not screenshots of the actual applications. Unpublished projects are not linked to fabricated repositories.
+
+## Personal links
+
+- GitHub: https://github.com/kashaf-math
+- LinkedIn: https://www.linkedin.com/in/kashaf-asif-03b89a3b4
+- Email: abdullahashiq7654@gmail.com
+
+## Deploy
+
+### Vercel
+
+1. Push the repository to GitHub.
+2. Sign in to Vercel and import this repository.
+3. Select the framework preset **Other** (static site).
+4. Leave the build command and output directory empty unless Vercel requests a static output setting.
+5. Deploy.
+
+### GitHub Pages
+
+1. Open the repository settings on GitHub.
+2. Find **Pages** under the build and deployment settings.
+3. Select deployment from the `main` branch and the root folder.
+4. Save and wait for the published site URL.
+
+## Accuracy notes
+
+This portfolio describes current learning and project experience without proficiency percentages or invented employment, credentials, testimonials, or project links. The My Life Manager development process is described as AI-assisted rather than claiming all source code was manually written by Kashaf.
 
 ---
 
-*Learning consistently, building thoughtfully, and growing at the intersection of mathematics and technology.*
+*Where Mathematics Meets Technology.*
